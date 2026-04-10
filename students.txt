@@ -1,0 +1,6 @@
+101 | sahil | 99.0
+102 | anandi | 98.0
+103 | chainesh | 87.0
+104 | toshit | 77.0
+105 | guru | 46.0
+106 | samruddhi | 58.0
